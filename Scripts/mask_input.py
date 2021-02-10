@@ -7,3 +7,4 @@ fileout = filein[:-4]+'_mask.fit'				#output file: fisheye mask
 
 #brightness cutoff:
 t = 14000		 #bright/light pixel threshold 
+
